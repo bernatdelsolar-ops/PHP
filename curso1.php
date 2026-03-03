@@ -1,8 +1,8 @@
 <?php
 
 
-echo "Primer curso de CF"
-
+echo 555;
+print "Primer curso de CF";
 
 
 
