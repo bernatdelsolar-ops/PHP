@@ -7,10 +7,13 @@
 </head>
 <body>
     hola
+    
 
     <?php
 
         echo "Hola";
+        echo "mi nobre es bernat";
+
 
     ?>
 
