@@ -11,7 +11,7 @@
 
     <?php
 
-        echo "Hola";
+        echo "<br />Hola";
         echo "mi nobre es bernat";
 
 
