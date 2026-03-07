@@ -12,7 +12,7 @@
     <?php
 
         echo "<br />Hola";
-        echo "mi nobre es bernat";
+        echo "&nbsp;mi nobre es bernat";
 
 
     ?>
