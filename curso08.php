@@ -7,7 +7,7 @@ while($aument0 < 10)
 {
 
 
-    echo $aumento
+    echo $aumento. "<br>";
     $aumento++;
 
 
