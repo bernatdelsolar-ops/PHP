@@ -6,7 +6,15 @@ if (7 == 7 && 6 == 6)
         echo "esto es verdad"
 
 
-    } else {
+    } elseif(5 == 5 ) {
+
+        echo "la segunda condicion es verdad"
+
+    }
+    
+    
+    
+    else {
 
         echo "esto no es verdad"
 
