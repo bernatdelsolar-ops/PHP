@@ -8,6 +8,7 @@ while($aument0 < 10)
 
 
     echo $aumento
+    $aumento++;
 
 
 }
