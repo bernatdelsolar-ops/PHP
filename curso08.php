@@ -14,7 +14,7 @@ while($aument0 < 10)
 }
 
 
-
+echo "resto de codigo"
 
 
 
